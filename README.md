@@ -1,1 +1,1 @@
-Medical Support System
+Medical Support System App
